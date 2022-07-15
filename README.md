@@ -1,5 +1,7 @@
 # MNIST digits with Vanilla GANs
 
+## RESULTS
+
 <p align="center">
   <img src="https://github.com/henryhmko/gan_experimenting/blob/main/misc/vanilliaGAN_mnist.png" width="740"/>
 </p>
